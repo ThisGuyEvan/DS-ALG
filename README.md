@@ -1,2 +1,2 @@
 # October
-- Algorithms
+- Reading ***Algorithms Unlocked*** by Thomas H. Cormen
